@@ -7,7 +7,7 @@
 
 # Vueform + Nuxt + Tailwind CSS
 
-*Last tested with Vite 3.7.3.*
+*Last tested with Nuxt 3.7.3.*
 
 ## Installation
 
