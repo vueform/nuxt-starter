@@ -1,5 +1,5 @@
 <br>
-<a href="https://vueform.com?ref=github" target="_blank">
+<a href="https://vueform.com?ref=nuxt-starter" target="_blank">
 
 <img src="./assets/logo.svg" width="228" alt="Vueform" title="Vueform" />
 
@@ -57,5 +57,5 @@ Feature highlights:
 - **translating** form content and global i18n support.
 
 Learn more:
-- Builder: [https://builder.vueform.com](https://builder.vueform.com)
-- Framework: [https://vueform.com](https://vueform.com)
+- Builder: [https://builder.vueform.com](https://builder.vueform.com?ref=nuxt-starter)
+- Framework: [https://vueform.com](https://vueform.com?ref=nuxt-starter)
