@@ -10,6 +10,7 @@ module.exports = {
     './node_modules/@vueform/vueform/themes/tailwind/**/*.vue',
     './node_modules/@vueform/vueform/themes/tailwind/**/*.js',
   ],
+  darkMode: 'class',
   theme: {
     extend: {},
   },
