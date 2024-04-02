@@ -10,10 +10,10 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/tailwindcss": "^6.8.0",
-    "nuxt": "^3.7.3"
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "nuxt": "^3.11.1"
   },
   "dependencies": {
-    "@vueform/nuxt": "^1.0.0"
+    "@vueform/nuxt": "^1.4.0"
   }
 }
