@@ -5,9 +5,9 @@
 
 </a>
 
-# Vueform + Nuxt + Tailwind CSS
+# DEPRECATED: Vueform + Nuxt + Tailwind
 
-*Last tested with Nuxt 3.11.1.*
+> Please use `npm create vueform@latest` or [alterantives](https://vueform.com/docs/installation#installation) instead.
 
 ## Installation
 
